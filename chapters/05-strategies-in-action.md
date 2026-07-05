@@ -114,7 +114,7 @@ Porter's Five Generic Strategies provide a vital framework for Cosco Integrated 
 | Size of Market | Cost Leadership | Differentiation | Focus |
 | :--- | :--- | :--- | :--- |
 | **Large** | **Type 1 / Type 2**<br>Expansion into national retail hubs via automation. | **Type 3**<br>Current "Innovating the Future" bespoke design expertise. | |
-| **Small** | |**Type 3**<br>Niche design services for Cavite-based firms..  | **Type 4 / Type 5**<br>Targeting large institutional SSS/Government contracts. Niche design services for Cavite-based firms. |
+| **Small** | |**Type 3**<br>Niche design services for Cavite-based firms..  | **Type 4 / Type 5**<br>Targeting large institutional SSS/Government contracts. |
 
 ### 1. Type 1: Cost Leadership - Low Cost
 A low-cost leadership strategy targets a broad market by offering products at the absolute lowest price available. For Cosco, this strategy is currently a significant challenge. The firm operates with a small workforce of 26 registered employees and faces intense rivalry from over 250 local and global brands, many of whom possess greater economies of scale. To effectively pursue Type 1 Cost Leadership, Cosco would need to undergo a massive internal reorganization. Sources suggest that the firm must invest in production automation, such as CNC cutting and robotic assembly, to drastically reduce the labor and material waste that currently keeps its production costs at P26.5 million against sales of P28.7 million. Without these efficiencies, attempting to compete as the lowest-cost provider in the broad market would likely deepen its existing P29.5 million capital deficiency.
