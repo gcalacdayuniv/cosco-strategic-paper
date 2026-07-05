@@ -135,18 +135,17 @@ For Cosco, the most significant value-creating link is currently its Operations 
 
 To improve its total Margin, Cosco must use Technology Development, specifically automation, to streamline its Operations and reduce the Cost of Sales, which consumed 92% of sales revenue in 2025. By optimizing these links, Cosco can transform its effective sales generation into actual bottom-line profitability.
 
-[Support Activities]
-├── Firm infrastructure: Bantiling family leadership, P15.4M stockholder advances
-├── Human resource management: 26 registered professionals, SSS/PhilHealth compliance
-├── Technology development: Bespoke design; automation roadmap 2026-2032
-└── Procurement: P15.0M raw material purchases in 2025
-───────────────────────────────────────────────────────────────────────────────────
-[Primary Activities]
-├── Inbound logistics: Bacoor storage of materials; P17.3M ending inventory 2025
-├── Operations: Manufacturing in Bacoor, Cavite; bespoke craftsmanship
-├── Outbound logistics: Delivery to Metro Manila and national hub clients
-├── Marketing & sales: "Innovating the Future"; gov't contracts; P28.7M sales 2025
-└── Service: Installation, warranty, support; builds goodwill
+|[Support Activities]|
+|Firm infrastructure: |Bantiling family leadership, P15.4M stockholder advancesv
+| Human resource management: |26 registered professionals, SSS/PhilHealth compliance|
+| Technology development: |Bespoke design; automation roadmap 2026-2032|
+| Procurement: |P15.0M raw material purchases in 2025|
+|[Primary Activities]|
+|├── Inbound logistics: |Bacoor storage of materials; P17.3M ending inventory 2025|
+|├── Operations: |Manufacturing in Bacoor, Cavite; bespoke craftsmanship|
+|├── Outbound logistics: |Delivery to Metro Manila and national hub clients|
+|├── Marketing & sales: |"Innovating the Future"; gov't contracts; P28.7M sales 2025|
+|└── Service: |Installation, warranty, support; builds goodwill|
 
 *Figure: Porter's value chain diagram*
 
