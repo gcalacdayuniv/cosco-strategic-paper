@@ -8,7 +8,7 @@ The framework for strategy formulation involves three stages: the Input Stage, t
 ---
 
 ## B. Input Stage
-The Input Stage is the foundation of the strategy-formulation framework. It consists of tools that allow strategists to measure subjectively the relative importance of both external and internal factors. For Cosco, the input stage requires gathering data from previous environmental audits—specifically the PESTLE analysis and Porter's Five Forces—to populate the matrices that will guide further decision-making.
+The Input Stage is the foundation of the strategy-formulation framework. It consists of tools that allow strategists to measure subjectively the relative importance of both external and internal factors. For Cosco, the input stage requires gathering data from previous environmental audits,specifically the PESTLE analysis and Porter's Five Forces,to populate the matrices that will guide further decision-making.
 
 The primary tools used in this stage include:
 * **External Factor Evaluation (EFE) Matrix:** Used to summarize and evaluate external economic, social, cultural, demographic, environmental, political, governmental, legal, technological, and competitive information.
@@ -57,7 +57,7 @@ The EFE Matrix reveals that while Cosco is effective at identifying revenue-gene
 ---
 
 ### Competitive Profile Matrix (CPM)
-The Competitive Profile Matrix (CPM) is an essential strategy-formulation tool used in the Input Stage to identify Cosco Integrated Office Systems, Inc.'s major competitors and compare their relative strengths and weaknesses. Unlike the EFE Matrix, which focuses on broad environmental factors, the CPM targets Critical Success Factors (KSFs)—the specific areas where a firm must excel to succeed in its industry.
+The Competitive Profile Matrix (CPM) is an essential strategy-formulation tool used in the Input Stage to identify Cosco Integrated Office Systems, Inc.'s major competitors and compare their relative strengths and weaknesses. Unlike the EFE Matrix, which focuses on broad environmental factors, the CPM targets Critical Success Factors (KSFs),the specific areas where a firm must excel to succeed in its industry.
 
 In the Philippine furniture market, Cosco belongs to the National Custom Partners strategic group. Its primary rivals include Volume Office Wholesalers (who compete on scale and price) and Global Design Leaders (who dominate the export market). The matrix reveals that while Cosco possesses a sustainable advantage in brand reputation and government institutional relations (Rating 4), it faces critical hurdles in production efficiency and low-cost structure (Rating 1). Its cost of sales consumes 92% of revenue, placing it at a disadvantage against volume-driven competitors who leverage economies of scale. To improve its total score, Cosco must shift toward production automation to defend its niche against both local retail giants and high-end international designers.
 
@@ -196,7 +196,7 @@ Cosco's resultant vector (+1.25, -1.50) lands in the **Competitive Quadrant** (B
 ---
 
 ### Boston Consulting Group (BCG) Matrix
-The BCG Matrix evaluates Cosco's primary business segments—Manufacturing (Bespoke Design) and Trading (Wholesale/Retail)—based on relative market share and industry growth rate.
+The BCG Matrix evaluates Cosco's primary business segments,Manufacturing (Bespoke Design) and Trading (Wholesale/Retail),based on relative market share and industry growth rate.
 
 #### Analysis of the Divisions
 1. **Bespoke Manufacturing & Custom Design (Question Mark):**
