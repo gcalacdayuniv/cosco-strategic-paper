@@ -114,7 +114,7 @@ Porter's Five Generic Strategies provide a vital framework for Cosco Integrated 
 | Size of Market | Cost Leadership | Differentiation | Focus |
 | :--- | :--- | :--- | :--- |
 | **Large** | **Type 1 / Type 2**<br>Expansion into national retail hubs via automation. | **Type 3**<br>Current "Innovating the Future" bespoke design expertise. | |
-| **Small** | | | **Type 4 / Type 5**<br>Targeting large institutional SSS/Government contracts. Niche design services for Cavite-based firms. |
+| **Small** | |**Type 3**<br>Niche design services for Cavite-based firms..  | **Type 4 / Type 5**<br>Targeting large institutional SSS/Government contracts. Niche design services for Cavite-based firms. |
 
 ### 1. Type 1: Cost Leadership - Low Cost
 A low-cost leadership strategy targets a broad market by offering products at the absolute lowest price available. For Cosco, this strategy is currently a significant challenge. The firm operates with a small workforce of 26 registered employees and faces intense rivalry from over 250 local and global brands, many of whom possess greater economies of scale. To effectively pursue Type 1 Cost Leadership, Cosco would need to undergo a massive internal reorganization. Sources suggest that the firm must invest in production automation, such as CNC cutting and robotic assembly, to drastically reduce the labor and material waste that currently keeps its production costs at P26.5 million against sales of P28.7 million. Without these efficiencies, attempting to compete as the lowest-cost provider in the broad market would likely deepen its existing P29.5 million capital deficiency.
@@ -198,20 +198,3 @@ For Cosco Integrated Office Systems, Inc., the means for achieving its strategie
 3. **First-Mover initiatives** in automation and smart furniture are high-risk but necessary to move the company away from competitive parity and toward long-term profitability.
 
 ---
-
-# Chapter 6: Strategy Analysis and Choice
-
-## A. Introduction
-The Strategy Analysis and Choice stage is a critical phase in the strategic-management process where an organization, such as Cosco Integrated Office Systems, Inc., identifies and evaluates alternative courses of action to achieve its long-term objectives and mission. For Cosco, a firm currently navigating a P5.58 million net loss and a cumulative deficit of P29.5 million, this chapter represents the transition from understanding its environment to making decisive moves for survival and growth. Strategic management is not merely a bundle of techniques, but a process of analytical thinking and the commitment of resources to action.
-
-The framework for strategy formulation involves three stages: the Input Stage, the Matching Stage, and the Decision Stage. This analysis focuses on the Input Stage, which summarizes the basic input information needed to formulate strategies through tools like the External Factor Evaluation (EFE) Matrix.
-
-## B. Input Stage
-The Input Stage is the foundation of the strategy-formulation framework. It consists of tools that allow strategists to measure subjectively the relative importance of both external and internal factors. For Cosco, the input stage requires gathering data from previous environmental audits-specifically the PESTLE analysis and Porter's Five Forces to populate the matrices that will guide further decision-making.
-
-The primary tools used in this stage include:
-1. **External Factor Evaluation (EFE) Matrix:** Used to summarize and evaluate external economic, social, cultural, demographic, environmental, political, governmental, legal, technological, and competitive information.
-2. **Internal Factor Evaluation (IFE) Matrix:** Used to summarize and evaluate the major strengths and weaknesses in the functional areas of a business.
-3. **Competitive Profile Matrix (CPM):** Identifies a firm's major competitors and its particular strengths and weaknesses in relation to a sample firm's strategic position.
-
-The information derived from these tools provides the necessary raw material for the Matching Stage, where internal strengths and weaknesses are paired with external opportunities and threats to generate feasible alternative strategies.
