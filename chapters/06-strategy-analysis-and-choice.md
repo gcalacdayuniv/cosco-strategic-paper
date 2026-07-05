@@ -79,6 +79,8 @@ In the Philippine furniture market, Cosco belongs to the National Custom Partner
 | 12. Successful promotions | 0.08 | 2 | 0.16 | 3 | 0.24 | 3 | 0.24 |
 | **TOTAL** | **1.00** | | **2.64** | | **3.30** | | **3.53** |
 
+Competitive Profile Matrix (CPM) for Cosco Integrated Office Systems, Inc. evaluates the firm's strategic position relative to its primary industry rivals: the Volume Wholesaler and the Global Design Leader. This analysis follows the strategy-formulation framework described in the sources to provide a quantified snapshot of competitive standing. 
+
 #### Analysis of the CPM
 1. **Weight:** Each Critical Success Factor (KSF) must be assigned a weight ranging from 0.0 (low importance) to 1.0 (high importance). The most heavily weighted factors in this matrix are Strong Online Presence (0.15) and Market Share (0.14), reflecting the modern reality where digital networking and niche dominance are primary engines of revenue growth. Brand Reputation (0.13) and IT/Automation (0.11) also carry significant weight.
 2. **Ratings:** Cosco earns a Rating 4 (Major Strength) in Brand Reputation, Product Integration (Customization), and Customer Retention, supported by its 20-year history as a National Custom Partner. However, it receives a Rating 1 (Major Weakness) in Sales per Employee and Low Cost Structure, directly corroborated by financial data showing its cost of sales consumes 92% of revenue. Rating 2 (Minor Weakness) is assigned to Market Share and IT/Automation Capabilities.
